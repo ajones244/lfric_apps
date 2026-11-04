@@ -51,4 +51,4 @@ socrates-spectral:
 
 ukca:
     source: git@github.com:ajones244/ukca.git
-    ref: bdf9c4f5fc3543f9a381ffbc835d0b4a108d1e84
+    ref: 146bfd6d43cb9ecbf7583c51ebda0564a6c52124
